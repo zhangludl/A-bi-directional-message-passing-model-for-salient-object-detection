@@ -7,5 +7,4 @@ Saliency map of this paper can be downloaded [here](https://pan.baidu.com/s/16kd
         author = {Zhang, Lu and Dai, Ju and Lu, Huchuan and He, You and Wang, Gang},
         title = {A Bi-Directional Message Passing Model for Salient Object Detection},
         booktitle = CVPR,
-        year = {2018}
-        }
+        year = {2018}}
