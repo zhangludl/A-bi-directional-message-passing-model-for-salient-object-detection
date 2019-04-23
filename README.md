@@ -8,6 +8,7 @@ Test
 * Put your test images in the `./data` directory.
 * Download the pretrained model from [here](https://pan.baidu.com/s/1ZSUW8YPvLR9mRjZ7_ISVnw), and put it under the `./model` directory.
 * Run `TestingModel.py` to generate saliency map.
+
 Train
 * Built a filename.txt for your training data, and revise the data path in `TrainingModel.py`.
 * Run `TrainModel.py` for training the saliency model.
