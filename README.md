@@ -10,8 +10,8 @@ Test
 * Run `TestingModel.py` to generate saliency map.
 
 Train
-* Built a filename.txt for your training data, and revise the data path in `TrainingModel.py`.
-* Run `TrainModel.py` for training the saliency model.
+* Built `a train_list.txt` for your training data, and revise the data path in `TrainingModel.py`.
+* Run `TrainingModel.py` for training the saliency model.
 ## Saliency Map
 Saliency map of this paper can be downloaded [BaiduYun](https://pan.baidu.com/s/16kdXjC8HC0gvnKpdqQJ9uA), [GoogleDrive](https://drive.google.com/open?id=1I283XrnYzgY6mk70b5fhYAHAy7oMVQYw).
 # Citation
